@@ -1,0 +1,79 @@
+.resultados{
+	width:100%;
+    margin-top: 15%;
+    margin-left: 10%;
+font-family: sans-serif;
+border: 3px;
+    height: 90px;
+
+}
+.ladoa{
+    width:40%;
+    float:left;
+    height: 200px;
+
+}
+.goles{
+    width:20%;
+}
+.gola{
+    width:10%;
+    float: left;
+    font-family: monospace;
+    position: absolute;
+    margin-left: 320px;
+    margin-bottom: 0px;
+    width: 50px;
+    height: 50px;
+    font-size: 40px;
+
+    
+}
+.ladob{
+    width:40%;
+    float: left;
+    height: 200px;
+
+}
+#equipo1{
+    
+   font-family: monospace;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    position: absolute;
+    margin-left: 200px;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+
+
+}
+#tituloamonestaciones{
+    font-size: x-large;
+font-family: monospace;
+}
+#titulojugadores{
+    font-size: x-large;
+font-family: monospace;
+}
+#jugador{
+    visibility: hidden;
+}
+#jugador1{
+    visibility: hidden;
+}
+#jugador2{
+    visibility: hidden;
+}
+#jugador3{
+    visibility: hidden;
+}
+#boton{    
+    position: absolute;
+    margin-top: 4.5%;
+    margin-left: 33%;
+}

@@ -1,0 +1,28 @@
+[23-May-2017 11:14:46 America/Bogota] PHP Notice:  Undefined variable: partido in /home/ligasa/public_html/Admin/pages/amonestaciones/manejargestionamonestaciones.php on line 100
+[23-May-2017 11:14:46 America/Bogota] PHP Notice:  Undefined variable: partido in /home/ligasa/public_html/Admin/pages/amonestaciones/manejargestionamonestaciones.php on line 100
+[03-Jun-2017 15:46:16 America/Bogota] PHP Notice:  Undefined variable: partido in /home/ligasa/public_html/Admin/pages/amonestaciones/manejargestionamonestaciones.php on line 100
+[03-Jun-2017 15:46:16 America/Bogota] PHP Notice:  Undefined variable: partido in /home/ligasa/public_html/Admin/pages/amonestaciones/manejargestionamonestaciones.php on line 100
+[03-Jun-2017 15:46:24 America/Bogota] PHP Notice:  Undefined variable: partido in /home/ligasa/public_html/Admin/pages/amonestaciones/manejargestionamonestaciones.php on line 100
+[03-Jun-2017 15:46:24 America/Bogota] PHP Notice:  Undefined variable: partido in /home/ligasa/public_html/Admin/pages/amonestaciones/manejargestionamonestaciones.php on line 100
+[06-Aug-2017 22:49:01 America/Bogota] PHP Notice:  Undefined variable: partido in /home/ligasa/public_html/Admin/pages/amonestaciones/manejargestionamonestaciones.php on line 111
+[06-Aug-2017 22:49:01 America/Bogota] PHP Notice:  Undefined variable: partido in /home/ligasa/public_html/Admin/pages/amonestaciones/manejargestionamonestaciones.php on line 111
+[16-Nov-2018 17:42:40 America/Bogota] PHP Notice:  Undefined variable: partido in /home/ligasa/public_html/Admin/pages/amonestaciones/manejargestionamonestaciones.php on line 111
+[16-Nov-2018 17:42:40 America/Bogota] PHP Notice:  Undefined variable: partido in /home/ligasa/public_html/Admin/pages/amonestaciones/manejargestionamonestaciones.php on line 111
+[05-May-2019 17:04:09 America/Bogota] PHP Notice:  Undefined index: id_usuarios in /home/ligasa/public_html/Admin/pages/menuinicial.php on line 11
+[05-May-2019 17:04:09 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[05-May-2019 17:04:09 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/usuario.php on line 11
+[05-May-2019 17:04:09 America/Bogota] PHP Notice:  Undefined variable: datos in /home/ligasa/public_html/Admin/php/usuario.php on line 34
+[05-May-2019 17:04:09 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[05-May-2019 17:04:09 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[05-May-2019 17:04:09 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[05-May-2019 17:04:09 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/usuario.php on line 44
+[05-May-2019 17:04:09 America/Bogota] PHP Notice:  Undefined index: perfil in /home/ligasa/public_html/Admin/pages/menuinicial.php on line 320
+[05-May-2019 17:04:09 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[05-May-2019 17:04:09 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/principal.php on line 19
+[05-May-2019 17:04:09 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[05-May-2019 17:04:09 America/Bogota] PHP Notice:  Undefined index: perfil in /home/ligasa/public_html/Admin/pages/amonestaciones/amonestacionpartido.php on line 8
+[05-May-2019 17:04:09 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[05-May-2019 17:04:09 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/principal.php on line 73
+[05-May-2019 17:04:09 America/Bogota] PHP Warning:  require(../php/configuracion.php): failed to open stream: No such file or directory in /home/ligasa/public_html/Admin/pages/sinpermiso.php on line 2
+[05-May-2019 17:04:09 America/Bogota] PHP Warning:  require(../php/configuracion.php): failed to open stream: No such file or directory in /home/ligasa/public_html/Admin/pages/sinpermiso.php on line 2
+[05-May-2019 17:04:09 America/Bogota] PHP Fatal error:  require(): Failed opening required '../php/configuracion.php' (include_path='.:/usr/share/php:/opt/alt/php56/usr/share/php:/opt/alt/php56/usr/share/pear') in /home/ligasa/public_html/Admin/pages/sinpermiso.php on line 2

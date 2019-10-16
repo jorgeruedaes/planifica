@@ -1,0 +1,54 @@
+[15-Jun-2017 08:19:02 America/Bogota] PHP Notice:  Undefined index: id_usuarios in /home/ligasa/public_html/Admin/pages/menuinicial.php on line 11
+[15-Jun-2017 08:19:02 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[15-Jun-2017 08:19:02 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/usuario.php on line 11
+[15-Jun-2017 08:19:02 America/Bogota] PHP Notice:  Undefined variable: datos in /home/ligasa/public_html/Admin/php/usuario.php on line 34
+[15-Jun-2017 08:19:02 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[15-Jun-2017 08:19:02 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[15-Jun-2017 08:19:02 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[15-Jun-2017 08:19:02 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/usuario.php on line 44
+[15-Jun-2017 08:19:02 America/Bogota] PHP Notice:  Undefined index: perfil in /home/ligasa/public_html/Admin/pages/menuinicial.php on line 320
+[15-Jun-2017 08:19:02 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[15-Jun-2017 08:19:02 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/principal.php on line 19
+[15-Jun-2017 08:19:02 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[15-Jun-2017 08:19:02 America/Bogota] PHP Notice:  Undefined index: perfil in /home/ligasa/public_html/Admin/pages/campeonatos/gestionar.php on line 6
+[15-Jun-2017 08:19:02 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[15-Jun-2017 08:19:02 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/principal.php on line 73
+[12-Oct-2017 17:06:56 America/Bogota] PHP Notice:  Undefined index: id_usuarios in /home/ligasa/public_html/Admin/pages/menuinicial.php on line 11
+[12-Oct-2017 17:06:56 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[12-Oct-2017 17:06:56 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/usuario.php on line 11
+[12-Oct-2017 17:06:56 America/Bogota] PHP Notice:  Undefined variable: datos in /home/ligasa/public_html/Admin/php/usuario.php on line 34
+[12-Oct-2017 17:06:56 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[12-Oct-2017 17:06:56 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[12-Oct-2017 17:06:56 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[12-Oct-2017 17:06:56 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/usuario.php on line 44
+[12-Oct-2017 17:06:56 America/Bogota] PHP Notice:  Undefined index: perfil in /home/ligasa/public_html/Admin/pages/menuinicial.php on line 320
+[12-Oct-2017 17:06:56 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[12-Oct-2017 17:06:56 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/principal.php on line 19
+[12-Oct-2017 17:06:56 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[12-Oct-2017 17:06:56 America/Bogota] PHP Notice:  Undefined index: perfil in /home/ligasa/public_html/Admin/pages/campeonatos/gestionar.php on line 6
+[12-Oct-2017 17:06:56 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[12-Oct-2017 17:06:56 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/principal.php on line 73
+[12-Oct-2017 17:06:56 America/Bogota] PHP Warning:  require(../php/configuracion.php): failed to open stream: No such file or directory in /home/ligasa/public_html/Admin/pages/sinpermiso.php on line 2
+[12-Oct-2017 17:06:56 America/Bogota] PHP Warning:  require(../php/configuracion.php): failed to open stream: No such file or directory in /home/ligasa/public_html/Admin/pages/sinpermiso.php on line 2
+[12-Oct-2017 17:06:56 America/Bogota] PHP Fatal error:  require(): Failed opening required '../php/configuracion.php' (include_path='.:/usr/share/php:/opt/alt/php56/usr/share/php:/opt/alt/php56/usr/share/pear') in /home/ligasa/public_html/Admin/pages/sinpermiso.php on line 2
+[03-May-2018 22:37:07 America/Bogota] PHP Notice:  Undefined index: id_usuarios in /home/ligasa/public_html/Admin/pages/menuinicial.php on line 11
+[03-May-2018 22:37:07 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[03-May-2018 22:37:07 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/usuario.php on line 11
+[03-May-2018 22:37:07 America/Bogota] PHP Notice:  Undefined variable: datos in /home/ligasa/public_html/Admin/php/usuario.php on line 34
+[03-May-2018 22:37:07 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[03-May-2018 22:37:07 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[03-May-2018 22:37:07 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[03-May-2018 22:37:07 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/usuario.php on line 44
+[03-May-2018 22:37:07 America/Bogota] PHP Notice:  Undefined index: perfil in /home/ligasa/public_html/Admin/pages/menuinicial.php on line 320
+[03-May-2018 22:37:07 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[03-May-2018 22:37:07 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/principal.php on line 19
+[03-May-2018 22:37:07 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[03-May-2018 22:37:07 America/Bogota] PHP Notice:  Undefined index: perfil in /home/ligasa/public_html/Admin/pages/campeonatos/gestionar.php on line 6
+[03-May-2018 22:37:07 America/Bogota] PHP Notice:  Undefined index: Id in /home/ligasa/public_html/Admin/php/consultas.php on line 22
+[03-May-2018 22:37:07 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ligasa/public_html/Admin/php/principal.php on line 73
+[03-May-2018 22:37:07 America/Bogota] PHP Warning:  require(../php/configuracion.php): failed to open stream: No such file or directory in /home/ligasa/public_html/Admin/pages/sinpermiso.php on line 2
+[03-May-2018 22:37:07 America/Bogota] PHP Warning:  require(../php/configuracion.php): failed to open stream: No such file or directory in /home/ligasa/public_html/Admin/pages/sinpermiso.php on line 2
+[03-May-2018 22:37:07 America/Bogota] PHP Fatal error:  require(): Failed opening required '../php/configuracion.php' (include_path='.:/usr/share/php:/opt/alt/php56/usr/share/php:/opt/alt/php56/usr/share/pear') in /home/ligasa/public_html/Admin/pages/sinpermiso.php on line 2
+[26-Sep-2018 21:36:47 America/Bogota] PHP Warning:  require(../php/configuracion.php): failed to open stream: No such file or directory in /home/ligasa/public_html/Admin/pages/sinpermiso.php on line 2
+[26-Sep-2018 21:36:47 America/Bogota] PHP Warning:  require(../php/configuracion.php): failed to open stream: No such file or directory in /home/ligasa/public_html/Admin/pages/sinpermiso.php on line 2
+[26-Sep-2018 21:36:47 America/Bogota] PHP Fatal error:  require(): Failed opening required '../php/configuracion.php' (include_path='.:/usr/share/php:/opt/alt/php56/usr/share/php:/opt/alt/php56/usr/share/pear') in /home/ligasa/public_html/Admin/pages/sinpermiso.php on line 2

@@ -1,0 +1,7 @@
+[09-Mar-2018 12:20:04 America/Bogota] PHP Warning:  unlink(/home/ligasa/public_html/Archivos/resoluciones/RESOLUCION No 09 fecha 7.pdf): No such file or directory in /home/ligasa/public_html/Admin/php/cargador.php on line 96
+[06-May-2018 12:01:53 America/Bogota] PHP Warning:  unlink(/home/ligasa/public_html/Archivos/Temporal/8-1.csv): No such file or directory in /home/ligasa/public_html/Admin/php/cargador.php on line 96
+[06-May-2018 12:02:03 America/Bogota] PHP Warning:  unlink(/home/ligasa/public_html/Archivos/Temporal/8-1.csv): No such file or directory in /home/ligasa/public_html/Admin/php/cargador.php on line 96
+[05-Sep-2018 08:06:04 America/Bogota] PHP Warning:  unlink(/home/ligasa/public_html/Archivos/BOLETINES/SUB 16  A.pdf): No such file or directory in /home/ligasa/public_html/Admin/php/cargador.php on line 96
+[05-Sep-2018 08:06:07 America/Bogota] PHP Warning:  unlink(/home/ligasa/public_html/Archivos/BOLETINES/SUB 16  A.pdf): No such file or directory in /home/ligasa/public_html/Admin/php/cargador.php on line 96
+[20-Nov-2018 14:50:14 America/Bogota] PHP Warning:  unlink(/home/ligasa/public_html/Archivos/BOLETINES/SUB 11 A27.pdf): No such file or directory in /home/ligasa/public_html/Admin/php/cargador.php on line 96
+[20-Nov-2018 14:50:18 America/Bogota] PHP Warning:  unlink(/home/ligasa/public_html/Archivos/BOLETINES/SUB 11 A27.pdf): No such file or directory in /home/ligasa/public_html/Admin/php/cargador.php on line 96
